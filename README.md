@@ -8,10 +8,10 @@ Aim and shoot using your mouse.
 Destroy enemies before they damage you
 Dodge obstacles and survive to the end of each level
 
-##🎮 Check out the Web build of the Game
+## 🎮 Check out the Web build of the Game
 https://play.unity.com/en/games/e215453f-3766-4d24-8489-42fe5578178e/galaxy-strike
 
-##📌 Note
+## 📌 Note
 PS: The graphics may appear lower quality in the web build due to WebGL limitations. For the best experience, please run the game locally on your computer — visuals look significantly better when played natively.
 ## 🛠 Built With
 - Unity 6000.1.3f1
